@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I+am+Malyavantham+Lahari" alt="Typing SVG" /></a>
 <hr> <ul>
-  <li>Front-End Developer | Crafting Stunning & Interactive Web Experiences</li>
-  <li>Passionate about beautiful UI & seamless UX </li>
+  <li>Front-End Developer</li>
+  <li>Passionat about python language </li>
   <li>Check out my repositories—I've pinned some of my best work here!</li>
   <li>For any inquiries, reach me at : 📩 <a href="mailto:mlahari252@gmail.com">mlahari252@gmail.com</a></li> 
 </ul>
